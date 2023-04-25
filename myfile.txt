@@ -1,0 +1,4 @@
+Hello this is th first line
+This is the second line
+This is the third line
+myfile =open('myfile.txt')
